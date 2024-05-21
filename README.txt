@@ -1,0 +1,1 @@
+Remove :3333 from localhost in dbconnect.php or change it to your port accordingly.

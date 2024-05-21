@@ -1,0 +1,22 @@
+.chart-contain{
+    width: 400px;
+    height: 300px;
+    margin: 50px;
+    padding: 50px 10px;
+}
+
+.chart-row {
+    display: flex;
+}
+
+h2 {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+  
+h3 {
+    color: black;
+    font-size: 20px;
+}
+  
