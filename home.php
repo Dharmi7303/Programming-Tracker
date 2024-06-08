@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Programming Tracker</title>
+    <title> Programming Tracker </title>
     <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/headers/">
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/footers/">
