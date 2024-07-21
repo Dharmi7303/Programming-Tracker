@@ -8,14 +8,12 @@
     <title>Admin</title>
 </head>
 <body>
-
     <div class="wrapper">
     <div class="container">
         <div class="col-left">
         <div class="login-text">
             <h2>Welcome Back</h2>
             <p>Are you an admin?<br>Then you're at the right place.</p>
-            
         </div>
         </div>
         <div class="col-right">
